@@ -196,7 +196,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 46094077}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 5d7c1e61d963a0345b54342441c40a58, type: 2}
   m_CullingMode: 0
@@ -3014,7 +3014,7 @@ Transform:
   m_Children:
   - {fileID: 46094078}
   m_Father: {fileID: 2313333}
-  m_LocalEulerAnglesHint: {x: 0, y: -8.220005, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -30, z: 0}
 --- !u!95 &1798405758
 Animator:
   serializedVersion: 5
